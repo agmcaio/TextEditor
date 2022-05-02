@@ -1,0 +1,15 @@
+C:\Users\caio.miranda\TextEditor\bin\Debug\net6.0\TextEditor.exe
+C:\Users\caio.miranda\TextEditor\bin\Debug\net6.0\TextEditor.deps.json
+C:\Users\caio.miranda\TextEditor\bin\Debug\net6.0\TextEditor.runtimeconfig.json
+C:\Users\caio.miranda\TextEditor\bin\Debug\net6.0\TextEditor.dll
+C:\Users\caio.miranda\TextEditor\bin\Debug\net6.0\TextEditor.pdb
+C:\Users\caio.miranda\TextEditor\obj\Debug\net6.0\TextEditor.csproj.AssemblyReference.cache
+C:\Users\caio.miranda\TextEditor\obj\Debug\net6.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio.miranda\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\caio.miranda\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfo.cs
+C:\Users\caio.miranda\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\caio.miranda\TextEditor\obj\Debug\net6.0\TextEditor.dll
+C:\Users\caio.miranda\TextEditor\obj\Debug\net6.0\refint\TextEditor.dll
+C:\Users\caio.miranda\TextEditor\obj\Debug\net6.0\TextEditor.pdb
+C:\Users\caio.miranda\TextEditor\obj\Debug\net6.0\TextEditor.genruntimeconfig.cache
+C:\Users\caio.miranda\TextEditor\obj\Debug\net6.0\ref\TextEditor.dll
